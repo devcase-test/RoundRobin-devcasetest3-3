@@ -1,3 +1,4 @@
+Solution Avaialble
 # Mobile Technical Assignment
 
 ### Assignment: MovieDB Viewer
